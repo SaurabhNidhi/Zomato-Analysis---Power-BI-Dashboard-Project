@@ -12,4 +12,4 @@ In this endeavor, I have conducted data extraction, cleaning, and analysis from 
 
 **Outcome:** The project culminated in a comprehensive set of reports and dashboards that provide Zomato stakeholders with actionable insights into various aspects of the platform's performance. From identifying emerging food trends to optimizing restaurant recommendations, these insights empower decision-makers to drive growth and enhance user experience.
 
-**Skills:** · Data Extraction · Data Cleaning · Data Modeling · Visualization and Reporting · Trend Analysis 
+**Skills:** · Data Extraction · Data Cleaning · Data Modeling · Visualization and Reporting · Trend Analysis
